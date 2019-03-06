@@ -1,3 +1,7 @@
+# Find all talks here:
+
+https://github.com/LinusBorg/talks
+
 # Composing Components
 
 *  2018-11-23
